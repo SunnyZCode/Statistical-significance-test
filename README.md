@@ -6,3 +6,6 @@ The script takes a "multi-dataset × multi-algorithm" score matrix as input, fir
 这是一个可用于多算法对比实验的统计分析脚本，核心功能包括 Friedman 总体显著性检验、Iman-Davenport 修正、 Wilcoxon 配对符号秩检验，以及 Nemenyi 事后检验与临界差异图可视化。
 
 脚本以“多数据集 × 多算法”的评分矩阵为输入，先判断算法整体差异是否显著，再定位目标算法与各基线方法之间的差异，并输出平均秩、显著性结果和图形文件，适合用于聚类算法实验的论文复现、方法对比与结果汇报。
+
+可视化效果图：
+<img width="1242" height="387" alt="image" src="https://github.com/user-attachments/assets/239d9032-d03b-44f4-8c31-0c91ac96bdc8" />
