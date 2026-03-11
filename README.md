@@ -9,4 +9,5 @@ The script takes a "multi-dataset × multi-algorithm" score matrix as input, fir
 
 The Nemenyi post-hoc test visualization diagram.
 Nemenyi可视化效果图：
-<img width="1242" height="387" alt="image" src="https://github.com/user-attachments/assets/239d9032-d03b-44f4-8c31-0c91ac96bdc8" />
+<img width="1069" height="334" alt="image" src="https://github.com/user-attachments/assets/336cf89c-5469-48dc-9f8d-d82ae7109f5c" />
+
