@@ -14,8 +14,9 @@ The script takes a "multi-dataset × multi-algorithm" score matrix as input. It 
 
 ### Example Visualization | Nemenyi 可视化效果图
 
-<img width="500" alt="Nemenyi Critical Difference Diagram" src="https://github.com/user-attachments/assets/d9af0bfa-ea1b-40d5-9017-8cbfddd64c3a" />
-
+<p align="center">
+  <img width="500" alt="Nemenyi Critical Difference Diagram" src="https://github.com/user-attachments/assets/d9af0bfa-ea1b-40d5-9017-8cbfddd64c3a" />
+</p>
 
 If you find this repository useful for your research, please consider citing our paper:
 
